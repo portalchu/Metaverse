@@ -9,6 +9,7 @@
 - 메타버스 조사 출처
   - [2023년 최고의 메타버스 TOP 10](https://medium.com/@seobina_/2023%EB%85%84-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4-top-10-4f373461bc1f)
   - [메타버스의 지도](https://vincos.it/2022/04/16/la-mappa-del-metaverso/)
+  - [NFT Plazas - Compare Metaverse Worlds](https://nftplazas.com/compare/)
 
 ### 로블록스
 
@@ -26,6 +27,10 @@
 
 - 링크
   - [로블록스](https://www.roblox.com/home)
+
+### 마인크래프트
+
+로블록스와 같은 폐쇠형 블록체인이다. 클라이언트와 서버를 중앙 서버에서 관리하며 마인크래프트를 배포하는 회사에 구매를 한 뒤 사용할 수 있다. 
 
 ### 더 샌드박스
 
@@ -45,7 +50,13 @@ LAND 기반이며 사용자는 특정 LAND에 들어가 메타버스를 플레�
 
 이더리움 기반의 개방형 메타버스로 분산형 자율 조직(DAO)에 의해 관리된다. 특정 중앙의 제어를 받지 않으며 파일들은 분산 파일 시스템에 의해 관리된다. 
 
-NFT를 사용한 LAND 기반 메타버스이며 사용자는 이를 구매해 메타버스 내의 자신의 땅을 소유할 수 있다.
+NFT를 사용한 LAND 기반 메타버스이며 사용자는 이를 구매해 메타버스 내의 자신의 땅을 소유할 수 있다. LAND는 이더리움의 스마트 계약에 의해 유지되며 고유한 x, y 값을 통해 메타버스 내에서 식별된다. LAND 토큰에는 좌표 기록, 소유자, 사용자가 만든 토지 내 콘텐츠 설명 파일 등이 작성되있다. LAND는 구매 이후 3차원 공간 및 애플리케이션을 구축할 수 있다. 
+
+Decentraland의 모든 콘텐츠는 콘텐츠 서버 네트워크에 저장되며 누구나 참여할 수 있으나 서버에 데이터를 제출할 경우 커뮤니티의 투표를 거쳐야한다. Decentraland를 방문할 경우 x, y 위치 정보를 기반으로 LAND 정보를 콘텐츠 서버 네트워크를 통해 가져와 렌더링한다. 
+
+Decentraland의 모든 콘텐츠가 저장된 콘텐츠 서버 네트워크는 Catalyst라고 하는 IPFS와 유사한 형태의 분산 파일 시스템을 사용하며 Github에 오픈 소스로 배포되고있다. 
+
+지갑 없이도 사용이 가능하나 일부 기능에 제약이 걸린다. (NFT 거래, 일일 이벤트 등)
 
 ![Decentraland](Image/20230724_Metaverse-inspection_Decentraland_2.PNG)
 
@@ -59,6 +70,11 @@ NFT를 사용한 LAND 기반 메타버스이며 사용자는 이를 구매해 �
   - [Decentraland](https://decentraland.org/)
   - [Decentraland Github](https://github.com/decentraland)
   - [해시넷 디센트럴랜드](http://wiki.hash.kr/index.php/%EB%94%94%EC%84%BC%ED%8A%B8%EB%9F%B4%EB%9E%9C%EB%93%9C)
+  - [Decentraland Docs - Player](https://docs.decentraland.org/player/)
+  - [Decentraland Docs - Content Creators](https://docs.decentraland.org/creator/)
+  - [Decentraland Docs - Contributors](https://docs.decentraland.org/contributor/)
+  - [Decentraland Catalyst Server Github](https://github.com/decentraland/catalyst)
+  - [Decentraland Architecture](https://docs.decentraland.org/contributor/introduction/architecture/)
 
 ### Cryptovoxels
 
@@ -83,6 +99,7 @@ NFT를 사용한 LAND 기반 메타버스이며 사용자는 이를 구매해 �
 
 ![Cryptovoxels_3](Image/20230721_Metaverse-inspection_cryptovoxels_6.PNG)
 
+Cryptovoxels의 경우 특유의 Voxel 그래픽으로 인해 렌더링 시간이 단축되며 매우 빠르다.
 
 - 링크
   - [Voxels](https://www.voxels.com/)
