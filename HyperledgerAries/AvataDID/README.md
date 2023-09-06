@@ -426,4 +426,5 @@ NuGetForUnity 다운 이후 위 NuGet 창이 생기며 NuGet -> Manage NuGet Pac
 
 위 링크를 통해 libindy를 다운 받고 압축을 풀어 나오는 폴더 중 'lib' 폴더에 있는 dll 파일들을 'Assets\Plugins' 폴더 내부에 붙여넣기하면 된다. Plugins 폴더의 경우 없으면 새로 만들어 사용한다.
 
-앞선 과정을 통해 libindy를 사용할 수 있으며 이를 사용한 코드는 아래와 같다.
+- 추가 내용
+  - [did-common-dotnet](https://github.com/decentralized-identity/did-common-dotnet)

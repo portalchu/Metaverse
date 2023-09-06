@@ -74,9 +74,10 @@
 
 - 오픈메타버스 정보
   - [“메타버스도 공개 표준 필요” 리눅스재단, 오픈 메타버스 재단 설립](https://www.itworld.co.kr/news/274273#csidx1445b9397a06cf78077ef3f7f398384)
-  - [Open Metaverse Foundation – Linux Foundation Project](https://www.openmv.org/)
   - [The Open Metaverse OS](https://outlierventures.io/research/the-open-metaverse-os/)
   - [메타버스와 오픈소스](https://www.oss.kr/oss_guide/show/c203c6fb-c9cc-4e67-bb65-ea177244ecdd)
+  - [Open Metaverse Foundation](https://www.openmv.org/)
+  - [Open Metaverse Foundation Github](https://github.com/openmetaverse)  
 
 #### Metaverse 비교
 
